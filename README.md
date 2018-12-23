@@ -1,6 +1,14 @@
 # SolarKeywordsIntellegencyTree
 搜索智能关键字提示
 
+![](https://i.imgur.com/yZGNjIW.png)
+
+![](https://i.imgur.com/Pgyz4us.png)
+
+<pre>
+Solr集群
+</pre>
+
 <pre>
 Solr VS Elasticsearch
 
